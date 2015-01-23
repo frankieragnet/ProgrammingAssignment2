@@ -8,6 +8,7 @@
 ## 4. get the inverse of the matrix
 ## NOTE: ASSUMES MATRIX IS SQUARE AND INVERTIBLE
 
+
 makeCacheMatrix <- function(x = matrix()) {
 
   inv <- NULL
